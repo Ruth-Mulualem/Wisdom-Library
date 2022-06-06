@@ -1,5 +1,13 @@
 # Wisdom-Library
 
+#### database credentials 
+
+host - localhost
+username - root 
+password - ''
+database name - librarymanagement
+
+
 #### Our project is a fully fledged website based library management system.
 #### It has the following general functionalities
     * account registration, login, logout, easy navigation...
